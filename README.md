@@ -117,10 +117,23 @@ MIT License - feel free to modify and distribute
 
 ## 🙏 Credits
 
-- Original concept inspired by [alowave/millennium-faceit-stats](https://github.com/alowave/millennium-faceit-stats)
+- Original concept inspired by [alowave/millennium-faceit-stats](https://github.com/alowave/millennium-faceit-stats) (MIT License)
 - FACEIT API for player data
 - Leetify API for performance metrics
 - Millennium framework by SteamClientHomebrew
+
+## 📄 License
+
+MIT License - Based on millennium-faceit-stats by alowave
+
+This is a significantly enhanced fork with additional features:
+- Leetify integration
+- Modern UI redesign
+- Enhanced level icons
+- Progress tracking
+- Win streak indicators
+
+See [LICENSE](LICENSE) file for full details.
 
 ---
 
