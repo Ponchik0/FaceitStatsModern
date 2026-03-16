@@ -2,9 +2,9 @@
   "$schema": "https://raw.githubusercontent.com/SteamClientHomebrew/Millennium/main/src/sys/plugin-schema.json",
 
   "name": "faceit_stats",
-  "common_name": "FaceIt Stats",
+  "common_name": "FaceIt Stats Modern",
   "description": "Enhanced FACEIT widget - ELO progress, recent form, map stats and color-coded metrics on Steam profiles.",
-  "version": "2.5.0",
+  "version": "1.0.0",
   "backendType": "python",
   "include": ["static"],
   "data": {
