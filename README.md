@@ -2,7 +2,8 @@
 
 ### 🏆 Enhanced **[FACEIT](https://faceit.com)** and **[Leetify](https://leetify.com)** integration with modern design for Steam profile pages!
 
-![Preview](https://via.placeholder.com/800x400/1a1a20/ff6600?text=FACEIT+Stats+Modern)
+![FACEIT Tab](image.png)
+![Leetify Tab](image%20copy.png)
 
 ## ⚡ Features
 
